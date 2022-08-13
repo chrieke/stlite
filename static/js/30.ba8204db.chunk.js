@@ -1,0 +1,3 @@
+/*! For license information please see 30.ba8204db.chunk.js.LICENSE.txt */
+(this.webpackJsonpplayground=this.webpackJsonpplayground||[]).push([[30],{1864:function(t,e,r){"use strict";r.r(e),r.d(e,"default",(function(){return a}));var u=r(0),n=r(68),s=r(130),c=r(142),i=r(1);function a(t){var e=t.element,r=t.width,a=Object(u.useRef)(null),o=Object(u.useContext)(n.a).getBaseUriParts;Object(u.useEffect)((function(){a.current&&(a.current.currentTime=e.startTime)}),[e.startTime]);var d=Object(c.i)(e.url),l=Object(s.b)(d,o());return Object(i.jsx)("audio",{id:"audio",ref:a,controls:!0,src:l,className:"stAudio",style:{width:r}})}}}]);
+//# sourceMappingURL=30.ba8204db.chunk.js.map
