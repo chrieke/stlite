@@ -131,7 +131,9 @@
     "static/media/flake-0.beded754.png": "https://whitphx.github.io/stlite/lib/mountable/static/media/flake-0.beded754.png",
     "static/media/flake-1.8077dc15.png": "https://whitphx.github.io/stlite/lib/mountable/static/media/flake-1.8077dc15.png",
     "static/media/flake-2.e3f07d06.png": "https://whitphx.github.io/stlite/lib/mountable/static/media/flake-2.e3f07d06.png",
-    "stlite.js.LICENSE.txt": "https://whitphx.github.io/stlite/lib/mountable/stlite.js.LICENSE.txt"
+    "stlite.js.LICENSE.txt": "https://whitphx.github.io/stlite/lib/mountable/stlite.js.LICENSE.txt",
+    "stlite.worker.js": "https://whitphx.github.io/stlite/lib/mountable/stlite.worker.js",
+    "stlite.worker.js.map": "https://whitphx.github.io/stlite/lib/mountable/stlite.worker.js.map"
   },
   "entrypoints": [
     "static/css/main.c4475a4d.css",
